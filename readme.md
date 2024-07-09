@@ -22,7 +22,7 @@ This project is an implementation of a Tic-Tac-Toe game with an unbeatable AI op
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
+   git clone https://github.com/Hamhunter23/AspireNex-TicTacToe.git
    cd tic-tac-toe-ai
    ```
 
